@@ -24,7 +24,7 @@ I enjoy working with data, solving problems, and developing analytical solutions
 - Data cleaning and transformation.
 - Preparation of analysis-ready datasets.
 
-**GitHub Repository:** ADD TASK 1 LINK HERE
+**GitHub Repository:** https://github.com/tannu-analytics/Task1-Data-Wrangling.git
 
 ### Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence
 - Exploratory Data Analysis using Python.
@@ -32,7 +32,8 @@ I enjoy working with data, solving problems, and developing analytical solutions
 - SQL queries for business questions.
 - Business insights and dashboard mock-up.
 
-**GitHub Repository:** ADD TASK 2 LINK HERE
+**GitHub Repository:** https://github.com/tannu-analytics/ApexPlanet-Task2-EDA
+
 
 ### Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 - Customer segmentation and RFM analysis.
@@ -40,7 +41,7 @@ I enjoy working with data, solving problems, and developing analytical solutions
 - Interactive dashboard development.
 - Sales performance analysis.
 
-**GitHub Repository:** ADD TASK 3 LINK HERE
+**GitHub Repository:**  https://github.com/tannu-analytics/ApexPlanet-Task3-Sales-Performance-Dashboard
 
 ### Task 4 – Data Storytelling & Statistical Validation
 - Business data storytelling.
