@@ -74,7 +74,7 @@ I enjoy working with data, solving problems, and developing analytical solutions
 
 The final presentation developed during Task 4 will be included in this portfolio.
 
-**File:** ApexPlanet_Task4_Final_Presentation.pptx
+**Final Presentation:** [View Task 4 Presentation](ApexPlanet_Task4_Final_Presentation.pptx)
 
 ## Acknowledgement
 
