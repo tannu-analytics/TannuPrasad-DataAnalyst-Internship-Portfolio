@@ -1,2 +1,88 @@
-# TannuPrasad-DataAnalyst-Internship-Portfolio
-A complete Data Analytics Internship Portfolio showcasing Python, SQL, EDA, dashboards, data storytelling and business insights.
+# Tannu Prasad | Data Analyst Internship Portfolio
+
+Welcome to my Data Analytics Internship Portfolio at **ApexPlanet Software Pvt. Ltd.**
+
+This repository showcases my learning journey, practical projects, technical skills, and achievements throughout the 60-Day Data Analytics Internship Program.
+
+## About Me
+
+I am an MCA student passionate about Data Analytics, Data Visualization, and transforming raw data into meaningful business insights.
+
+I enjoy working with data, solving problems, and developing analytical solutions using Python, SQL, and data visualization tools.
+
+## Internship Overview
+
+**Organization:** ApexPlanet Software Pvt. Ltd.  
+**Program:** 60-Day Data Analytics Internship  
+**Domain:** Data Analytics
+
+## Projects Completed
+
+### Task 1 – Data Immersion & Wrangling
+- Dataset exploration and familiarization.
+- Data quality assessment.
+- Data cleaning and transformation.
+- Preparation of analysis-ready datasets.
+
+**GitHub Repository:** ADD TASK 1 LINK HERE
+
+### Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence
+- Exploratory Data Analysis using Python.
+- Data visualization and statistical analysis.
+- SQL queries for business questions.
+- Business insights and dashboard mock-up.
+
+**GitHub Repository:** ADD TASK 2 LINK HERE
+
+### Task 3 – Deep-Dive Analysis & Interactive Dashboarding
+- Customer segmentation and RFM analysis.
+- Key Performance Indicators (KPIs).
+- Interactive dashboard development.
+- Sales performance analysis.
+
+**GitHub Repository:** ADD TASK 3 LINK HERE
+
+### Task 4 – Data Storytelling & Statistical Validation
+- Business data storytelling.
+- Statistical hypothesis testing.
+- Data-driven conclusions.
+- Professional presentation development.
+
+**GitHub Repository:** https://github.com/tannu-analytics/ApexPlanet_Task4
+
+## Technical Skills
+
+- **Programming:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Database:** MySQL, SQL
+- **Data Visualization:** Power BI, Looker Studio
+- **Tools:** VS Code, GitHub, Excel
+
+## Key Learnings
+
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis.
+- Writing SQL queries.
+- Customer segmentation and RFM analysis.
+- Dashboard creation and KPI analysis.
+- Statistical validation and hypothesis testing.
+- Business storytelling and presentation skills.
+- Project documentation and version control using GitHub.
+
+## Final Presentation
+
+The final presentation developed during Task 4 will be included in this portfolio.
+
+**File:** ApexPlanet_Task4_Final_Presentation.pptx
+
+## Acknowledgement
+
+I sincerely thank ApexPlanet Software Pvt. Ltd. for providing this opportunity to learn, practice, and improve my Data Analytics skills through real-world projects.
+
+---
+
+**Thank you for visiting my portfolio!**
+
+**Tannu Prasad**  
+[LinkedIn Profile](https://www.linkedin.com/in/tannu-prasad-0357712a4/)
+
